@@ -8,7 +8,7 @@
 
 LiquidCrystal_I2C lcd(0x26,16,2);
 
-int value = 0; // od 0 do 255
+int value = 0; // 0 to 255
 int val_pot = 0;
 bool read_pot = true;
 

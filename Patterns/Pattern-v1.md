@@ -1,4 +1,4 @@
-### ***Kitchen Timer v1***
+### ***Pattern v1***
 In this project I created an Arduino circuit that displays a pattern that looks like it's going in a circle. Kind of. :)
 
 See for yourself: https://www.tinkercad.com/things/3jFW7PSUj1J-pattern-v1

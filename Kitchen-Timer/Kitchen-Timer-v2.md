@@ -1,4 +1,4 @@
-### ***Kitchen Timer v1***
+### ***Kitchen Timer v2***
 In this project I extended the functionality of the first version with a stop button that stops and resets the selected timer..
 
 See for yourself:https://www.tinkercad.com/things/lVQ1rkv73EM-kitchen-timer-v2

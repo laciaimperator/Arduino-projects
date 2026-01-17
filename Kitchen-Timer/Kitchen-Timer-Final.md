@@ -1,5 +1,5 @@
 
-### ***Kitchen Timer v1***
+### ***Kitchen Timer Final version***
 In this project I simplified the code by removing unnecesary variables total_mins, cur_mins, cur_secs and I changed the operation of the stop button- instead of resetting it's just pausing now and you can restart it by clicking the start button.
 
 See for yourself: https://www.tinkercad.com/things/g2NfuBhf5Yz-kitchen-timer-final
